@@ -1,0 +1,3 @@
+id,title,type,description,release_year,age_certification,runtime,genres,production_countries,seasons,imdb_id,imdb_score,imdb_votes,tmdb_popularity,tmdb_score
+ts300399,Five Came Back: The Reference Films,SHOW,"This collection includes 12 World War II-era propaganda films — many of which are graphic and offensive — discussed in the docuseries ""Five Came Back.""",1945,TV-MA,48,['documentation'],['US'],1.0,,,,0.6,
+tm84618,Taxi Driver,MOVIE,"A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action, attempting to save a preadolescent prostitute in the process.",1976,R,113,"['crime', 'drama']",['US'],,tt0075314,8.3,795222.0,27.612,8.2
